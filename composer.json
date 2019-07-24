@@ -27,13 +27,13 @@
     },
     "autoload": {
         "psr-4": {
-            "KI\\eBaySDK\\": "src/"
+            "knightinteractive\\eBaySDK\\": "src/"
         },
         "files": ["src/functions.php"]
     },
     "autoload-dev": {
         "psr-4": {
-            "KI\\eBaySDK\\Test\\": "test/"
+            "knightinteractive\\eBaySDK\\Test\\": "test/"
         },
         "classmap": ["build/"]
     }
